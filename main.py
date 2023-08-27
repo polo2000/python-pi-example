@@ -1,8 +1,8 @@
 
 
-def main(msg):
-    // "Adding a different comment"
-    // Print a message
+def main(msg)
+    // "No longer need comments here"
     print(msg)
 
+print("New function")
 main("Hello people")
